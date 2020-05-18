@@ -1,0 +1,16 @@
+Proyecto N°1
+
+Razones Financieras
+
+Curso:
+
+Fundamentos Web
+
+Integrantes:
+
+Jafeth Granados
+Shawny Rodriguez
+Xinia Rodirguez
+Andrey Elizondo
+
+Nota: En el proyecto siempre se tiene que meter en la pestaña de periodos para que luego cargar las demas prestañas.
